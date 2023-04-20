@@ -1,0 +1,33 @@
+_repo: Twelve-months-in-Madagascar_70378
+_version: 0.0.1
+alternative_title: 12 months in Madagascar
+creator:
+  author:
+    agent_name: Mullens, Joseph
+    birthdate: 1820
+    deathdate: 1879
+    gutenberg_agent_id: '55737'
+    url: http://www.gutenberg.org/2009/agents/55737
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Mullens
+description: ''
+gutenberg_issued: '2023-03-25'
+identifiers:
+  gutenberg: '70378'
+language: en
+pgterms:marc904: https://archive.org/details/twelvemonthsinma00mull
+pgterms:marc905: 20200912061007mullens
+pgterms:marc906: '1875'
+pgterms:marc907: us
+production_note: Peter Becker, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bRobert Carter & brothers, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madagascar -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: Twelve months in Madagascar
+url: http://www.gutenberg.org/ebooks/70378
